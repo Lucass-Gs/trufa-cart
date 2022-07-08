@@ -1,0 +1,31 @@
+.total-container {
+      border-top: 1px solid #ccc;
+      border-bottom: 1px solid #ccc;
+}
+
+.total {
+      display: flex;
+      justify-content: space-around;
+      width: 100%;
+
+      padding: 30px 0;
+      justify-content: space-between;
+      font-size: 15px;
+}
+
+.total h2 {
+      margin: 0 40px;
+}
+
+.free-shipping {
+      display: flex;
+      justify-content: center;
+      margin-bottom: 30px;
+}
+
+.free-shipping p {
+      background-color: rgb(201, 236, 148);
+      color: gray;
+      padding: 15px;
+      border-radius: 30px;
+}

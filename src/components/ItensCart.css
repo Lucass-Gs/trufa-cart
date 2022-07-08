@@ -1,0 +1,36 @@
+.card-container {
+      display: flex;
+      width: 100%;
+      flex-direction: column;
+
+}
+
+.item-card {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      width: 85%;
+      height: 100px;
+      margin: 20px 30px;
+}
+
+.text-info {
+      font-size: 11px;
+}
+
+.image {
+      border: 1px solid #ccc;
+      width: 100px;
+      height: 100px;
+      margin-right: 20px;
+}
+
+.old-price {
+      color: #ccc;
+      font-size: 9px;
+}
+
+.count {
+      display: flex;
+
+}
