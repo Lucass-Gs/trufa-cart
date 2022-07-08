@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+To install all project dependencies
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -15,6 +18,8 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-### Open another terminal and type `json-server --watch -p 4000 acima-10-reais.json` or  `json-server --watch -p 4000 abaixo-10-reais.json` to run json-server
+### Change the baseURL in src/services/api.js to choose the API to show
+To ` baseURL: "https://acima-10-reais-api.herokuapp.com/" ` or
+` baseURL: "https://abaixo-10-reais-api.herokuapp.com/" `
 
 The first api server shows the layout with free shipping and the second shows the same layout without the free shipping
