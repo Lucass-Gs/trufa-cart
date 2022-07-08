@@ -1,3 +1,5 @@
+### Project preview: https://trufa-cart-kxjnosyp2-lucass-gs.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
